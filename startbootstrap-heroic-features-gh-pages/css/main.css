@@ -1,0 +1,8 @@
+.jumbotron{
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+}
+
+.jumbotron, h1, p{
+    color: whitesmoke;
+}
